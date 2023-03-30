@@ -1,0 +1,49 @@
+.hd{
+    position: relative;
+    left: 260px;
+    font-family: AKbalthom Superhero;
+    color: blueviolet;
+}
+.mo{
+ position: relative;
+ left: 650px;
+ bottom: 45px;
+  color:aqua;
+}
+.in{
+    position: relative;
+    left: 800px;
+ bottom: 85px;
+}
+.co{
+    position: relative;
+    left: 1000px;
+ bottom: 125px;
+}
+.we{
+    background-color:#CACFD2 ;
+    position:relative;
+    bottom:100px;
+    padding: 10px;
+}
+.img{
+    position: relative;
+    bottom: 110px;
+}
+.p{
+    position: relative;
+    bottom:800px;
+    left:30px;
+    font-family: AKbalthom Freehand;
+}
+.h1{
+    position: relative;
+    top:10px;
+    width:1350px; height:500px;
+}
+.mh1{
+    color: #5DADE2 ;
+    position: relative;
+    bottom:50px;
+    font-family:Colonna MT;
+}
